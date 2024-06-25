@@ -24,8 +24,8 @@ const Contact = () => {
                         <AiFillLinkedin className='w-[70px] h-auto text-gray-300'/>
                         <div className="m-5">
                             <h3 className="text-lg font-bold text-gray-200">Our Address</h3>
-                            <p className="text-gray-400">1230 Maecenas Street Donec Road</p>
-                             <p className="text-gray-400">New York, EEUU</p>
+                            <p className="text-gray-400">Addis Ababa</p>
+                             <p className="text-gray-400">Ethiopia, A.A</p>
                         </div>
                         </li> 
                         <li className="flex">
@@ -33,8 +33,8 @@ const Contact = () => {
                           <div className="m-5">
                             <h3 className="text-lg font-bold text-gray-200">Contact
                             </h3>
-                            <p className="text-gray-400">Mobie: +1 (123) 456-7890</p>
-                            <p className="text-gray-400">Mail: tailnext@gmail.com</p>
+                            <p className="text-gray-400">Mobie: _251 960018605</p>
+                            <p className="text-gray-400">Email: biruktawitchernet@gmail.com</p>
                             </div>  
                         </li>
                         <li className="flex">

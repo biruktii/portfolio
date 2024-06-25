@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between h-16 lg:h-20 bg-[#223]/30 rounded-b-3xl shadow-lg px-4">
       
       <div className="text-white text-xl sm:text-2xl">
-        <a href="#" className='font-bold'><span>John Doe</span></a>
+        <a href="#" className='font-bold'><span>Birukti</span></a>
       </div>
 
       <ul className="text-gray-700 font-medium hidden lg:flex lg:items-center lg:justify-center lg:space-x-10 text-2xl">
@@ -29,7 +29,7 @@ const Navbar = () => {
       </div>
       <div className={nav ? 'z-30 text-gray-300 fixed h-[50%] left-0 top-0 w-full bg-[#202121] ease-in-out duration-500'
       : 'fixed left-[-100%]'}>
-        <h1 className='text-3xl gray-primary-color m-4'>J.DOE</h1>
+        <h1 className='text-3xl gray-primary-color m-4'>Birukti</h1>
         <ul className="p-8 text-4xl ml-20">
             <li className='p-2'><NavLink to="/hero" activeClassName="selected">Home</NavLink></li>
             <li className='p-2'><NavLink to="/about" activeClassName="text-black">About</NavLink></li>
